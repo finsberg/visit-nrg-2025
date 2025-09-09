@@ -1,6 +1,6 @@
-# Skolebesøk av på Simula av NRG
+# Skolebesøk av NRG på Simula Research Laboratory
 
-Dette materialet ble skrevet i forbindelse med at NRG (Norges Realfagsgymnas) besøkte Simula Research Laboratory for å lære litt om Python og numeriske beregninger. Materialet er ment å være en introduksjon til grunnleggende Python-programmering, med fokus på bruk av Jupyter Notebook som et verktøy for interaktiv koding og dokumentasjon.
+Dette materialet ble skrevet i forbindelse med at NRG (Norges Realfagsgymnas) besøkte Simula Research Laboratory for å lære litt om Python og numeriske beregninger. Materialet er ment å være en introduksjon til grunnleggende Python-programmering, med fokus på bruk av Jupyter Notebook som et verktøy for interaktiv koding.
 
 Live notebooks kan finnes ved å gå til følgende side: https://finsberg.github.io/visit-nrg-2025
 
